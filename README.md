@@ -19,6 +19,6 @@ Normally, you could pick 預設英文 for english text or 預設中文 for chine
 # Intuition
 To calculate the similarity of two text input, we can first calculate the disimilarity of two text input.
 
-In this calculator, I use edit-distance to measure the disimilarity of texts.
+In this calculator, I use edit-distance to measure the disimilarity of texts.\n
 https://en.wikipedia.org/wiki/Edit_distance
 The higher the edit-distance, the lower the similarity.
